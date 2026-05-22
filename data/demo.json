@@ -1,0 +1,79 @@
+{
+  "name": "Maria",
+  "window": { "start": "22 avril 2026", "end": "22 mai 2026" },
+  "stats": {
+    "visites": 4,
+    "top_category": "Spa",
+    "economies_chf": 180
+  },
+  "visites": [
+    {
+      "etab_name": "Royal Savoy",
+      "category": "Spa",
+      "canton": "Vaud",
+      "visit_count": 2,
+      "last_visit_fr": "12 mai 2026",
+      "etab_photo_url": "https://www.bodypass.ch/wp-content/uploads/2023/03/Royal-Savoy-Lausanne-Spa-du-Royal-1.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/bpnight-royal-savoy/"
+    },
+    {
+      "etab_name": "Hammam Yasmine",
+      "category": "Spa",
+      "canton": "Genève",
+      "visit_count": 1,
+      "last_visit_fr": "5 mai 2026",
+      "etab_photo_url": "https://www.bodypass.ch/wp-content/uploads/2022/05/hammam-yasmine.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/hammam-yasmine/"
+    },
+    {
+      "etab_name": "L'Atelier Coiffure",
+      "category": "Coiffure",
+      "canton": "Genève",
+      "visit_count": 1,
+      "last_visit_fr": "29 avril 2026",
+      "etab_photo_url": "https://www.bodypass.ch/wp-content/uploads/2021/06/atelier-coiffure.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/latelier-coiffure/"
+    },
+    {
+      "etab_name": "Le Mont Onglerie",
+      "category": "Onglerie",
+      "canton": "Vaud",
+      "visit_count": 1,
+      "last_visit_fr": "24 avril 2026",
+      "etab_photo_url": "https://www.bodypass.ch/wp-content/uploads/2022/11/le-mont-onglerie.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/le-mont-onglerie/"
+    }
+  ],
+  "recos": [
+    {
+      "slot": "favorite_category",
+      "badge": "Encore plus de Spa",
+      "etab_name": "Spa du Lausanne Palace",
+      "category": "Spa",
+      "canton": "Vaud",
+      "blurb": "Un cocon urbain au cœur de Lausanne, avec piscine, hammam, sauna et soins signature.",
+      "etab_photo_url": "https://www.bodypass.ch/wp-content/uploads/2023/03/Lausanne-Palace-spa.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/bpnight-lausanne-palace/"
+    },
+    {
+      "slot": "same_canton",
+      "badge": "À deux pas de chez vous",
+      "etab_name": "Maison B",
+      "category": "Soins du Visage",
+      "canton": "Genève",
+      "blurb": "Soins visage signature et expertise pointue, dans un écrin discret au centre de Genève.",
+      "etab_photo_url": "https://www.bodypass.ch/wp-content/uploads/2022/09/maison-b.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/maison-b/"
+    },
+    {
+      "slot": "novelty",
+      "badge": "Nouveauté du réseau",
+      "etab_name": "Pureform",
+      "category": "Massage",
+      "canton": "Vaud",
+      "blurb": "Le tout dernier partenaire Body Pass — massages thérapeutiques et soins corps en pleine campagne vaudoise.",
+      "etab_photo_url": "https://www.bodypass.ch/wp-content/uploads/2024/02/pureform.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/pureform/"
+    }
+  ]
+}
