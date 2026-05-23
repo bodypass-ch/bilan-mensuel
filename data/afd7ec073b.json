@@ -1,0 +1,82 @@
+{
+  "name": "Gaelle",
+  "window": {
+    "start": "23 avril 2026",
+    "end": "23 mai 2026"
+  },
+  "stats": {
+    "visites": 4,
+    "top_category": "Soins Hommes",
+    "economies_chf": 194
+  },
+  "visites": [
+    {
+      "etab_name": "Lausanne Palace & Spa",
+      "category": "Future Maman",
+      "canton": "Vaud",
+      "visit_count": 1,
+      "last_visit_fr": "19 mai 2026",
+      "etab_photo_url": "https://bodypass-ch.github.io/bodypass-assets/etablissements/lausanne-palace-spa.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/lausanne-palace-spa/"
+    },
+    {
+      "etab_name": "Salon Privé Ecublens",
+      "category": "Soins Hommes",
+      "canton": "Vaud",
+      "visit_count": 1,
+      "last_visit_fr": "13 mai 2026",
+      "etab_photo_url": "https://bodypass-ch.github.io/bodypass-assets/etablissements/salon-prive-ecublens.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/salon-prive-ecublens/"
+    },
+    {
+      "etab_name": "Royal Savoy Hôtel & Spa",
+      "category": "Future Maman",
+      "canton": "Vaud",
+      "visit_count": 1,
+      "last_visit_fr": "4 mai 2026",
+      "etab_photo_url": "https://bodypass-ch.github.io/bodypass-assets/etablissements/royal-savoy-hotel-spa.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/royal-savoy-hotel-spa/"
+    },
+    {
+      "etab_name": "Nail Café",
+      "category": "Epilation",
+      "canton": "Vaud",
+      "visit_count": 1,
+      "last_visit_fr": "24 avril 2026",
+      "etab_photo_url": "https://bodypass-ch.github.io/bodypass-assets/etablissements/nail-cafe.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/nail-cafe/"
+    }
+  ],
+  "recos": [
+    {
+      "slot": "favorite_category",
+      "badge": "Encore plus de Soins Hommes",
+      "etab_name": "1er Acte Coiffure",
+      "category": "Soins Hommes",
+      "canton": "Vaud",
+      "blurb": null,
+      "etab_photo_url": "https://bodypass-ch.github.io/bodypass-assets/etablissements/1er-acte-coiffure.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/1er-acte-coiffure/"
+    },
+    {
+      "slot": "same_canton",
+      "badge": "À deux pas de chez vous",
+      "etab_name": "Bhumi",
+      "category": "Soins Bio",
+      "canton": "Vaud",
+      "blurb": null,
+      "etab_photo_url": "https://bodypass-ch.github.io/bodypass-assets/etablissements/biotonique-institut.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/biotonique-institut/"
+    },
+    {
+      "slot": "novelty",
+      "badge": "Nouveauté du réseau",
+      "etab_name": "HÔTEL BORSARI",
+      "category": "Hôtels",
+      "canton": "Valais",
+      "blurb": null,
+      "etab_photo_url": "https://bodypass-ch.github.io/bodypass-assets/etablissements/bpnight-hotel-borsari.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/bpnight-hotel-borsari/"
+    }
+  ]
+}
