@@ -1,0 +1,73 @@
+{
+  "name": "Aurélie",
+  "window": {
+    "start": "23 avril 2026",
+    "end": "23 mai 2026"
+  },
+  "stats": {
+    "visites": 3,
+    "top_category": "Soins du Visage",
+    "economies_chf": 150
+  },
+  "visites": [
+    {
+      "etab_name": "Blossom Institut",
+      "category": "Soins Hommes",
+      "canton": "Genève",
+      "visit_count": 1,
+      "last_visit_fr": "18 mai 2026",
+      "etab_photo_url": "https://bodypass-ch.github.io/bodypass-assets/etablissements/blossom-institut.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/blossom-institut/"
+    },
+    {
+      "etab_name": "Skin Solution",
+      "category": "Massage",
+      "canton": "Genève",
+      "visit_count": 1,
+      "last_visit_fr": "18 mai 2026",
+      "etab_photo_url": "https://bodypass-ch.github.io/bodypass-assets/etablissements/skin-solution.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/skin-solution/"
+    },
+    {
+      "etab_name": "EUPHORIA & BEAUTY STUDIO",
+      "category": "Coiffure",
+      "canton": "Genève",
+      "visit_count": 1,
+      "last_visit_fr": "27 avril 2026",
+      "etab_photo_url": "https://bodypass-ch.github.io/bodypass-assets/etablissements/euphoria-beauty-studio.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/euphoria-beauty-studio/"
+    }
+  ],
+  "recos": [
+    {
+      "slot": "favorite_category",
+      "badge": "Encore plus de Soins du Visage",
+      "etab_name": "BEAUTY B",
+      "category": "Soins du Visage",
+      "canton": "Genève",
+      "blurb": null,
+      "etab_photo_url": "https://bodypass-ch.github.io/bodypass-assets/etablissements/bv-institut.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/bv-institut/"
+    },
+    {
+      "slot": "same_canton",
+      "badge": "À deux pas de chez vous",
+      "etab_name": "Corps Sains",
+      "category": "Future Maman",
+      "canton": "Genève",
+      "blurb": null,
+      "etab_photo_url": "https://bodypass-ch.github.io/bodypass-assets/etablissements/corps-sains.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/corps-sains/"
+    },
+    {
+      "slot": "novelty",
+      "badge": "Nouveauté du réseau",
+      "etab_name": "HÔTEL BORSARI",
+      "category": "Hôtels",
+      "canton": "Valais",
+      "blurb": null,
+      "etab_photo_url": "https://bodypass-ch.github.io/bodypass-assets/etablissements/bpnight-hotel-borsari.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/bpnight-hotel-borsari/"
+    }
+  ]
+}
