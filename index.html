@@ -288,7 +288,7 @@
     }
 
     function metaLine(s) {
-      return [s.category, s.canton].filter(Boolean).join(" · ");
+      return s.canton || "";
     }
 
     function visitMeta(v) {
@@ -325,9 +325,9 @@
           <div class="caption">établissements partenaires fréquentés</div>
         </div>
         <div class="stat">
-          <div class="label">Top catégorie</div>
-          <div class="figure">${stats.top_category || "—"}</div>
-          <div class="caption">la catégorie où vous êtes le plus allée</div>
+          <div class="label">Région favorite</div>
+          <div class="figure">${stats.top_canton || "—"}</div>
+          <div class="caption">là où vous êtes allée le plus souvent</div>
         </div>
         <div class="stat">
           <div class="label">Économies</div>
@@ -353,7 +353,7 @@
         visites.forEach(v => {
           const node = tpl.content.cloneNode(true);
           node.querySelector(".media").setAttribute("style", mediaStyle(v.etab_photo_url));
-          node.querySelector(".category").textContent = (v.category || "").toUpperCase();
+          node.querySelector(".category").textContent = (v.canton || "").toUpperCase();
           node.querySelector("h3").textContent = v.etab_name || "";
           node.querySelector(".visit-meta").textContent = visitMeta(v);
           const link = node.querySelector("a.link");
